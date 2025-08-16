@@ -1,4 +1,4 @@
-# Critical Evaluation of Time Series Foundation Models in Demand Forecasting  
+# Benchmarking of Time Series Algorithms for Demand Forecasting
 
 ## 🌐 Abstract  
 Accurate forecasts are crucial as they enable organizations to make informed decisions about their supply chain. This research aims to benchmark and evaluate the efficiency of various foundation models in time series forecasting, especially in the domain of demand forecasting. The research employs traditional statistical, machine learning, and deep learning algorithms and compares their forecasting performance with popular foundational models **TimeGPT** and **TimesFM**. Both accuracy and uncertainty metrics are considered to establish a credible framework for benchmarking.  
